@@ -1,3 +1,5 @@
+This application is (currently) a proof-of-concept application for the "Air Math" concept; one that allows users to draw simple mathematical formulae in the air, and have them evaluated by the application.
+
 CAGE is a gesture recognition designed for the the eZ430-Chronos wristwatch.
 This system allows users to make gestures using their hand (equipped with a
 wristwatch) that control their PC. The system consists of a library for
